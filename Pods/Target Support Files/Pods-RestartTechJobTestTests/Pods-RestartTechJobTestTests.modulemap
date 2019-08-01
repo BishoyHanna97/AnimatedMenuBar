@@ -1,0 +1,6 @@
+framework module Pods_RestartTechJobTestTests {
+  umbrella header "Pods-RestartTechJobTestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
